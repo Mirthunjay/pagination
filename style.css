@@ -1,0 +1,14 @@
+.pagination{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    border: none;
+    width: 35px;
+}
+.button:hover{
+    background-color: lightsalmon;
+}
+.navbar-alter{
+    width: auto;
+}
